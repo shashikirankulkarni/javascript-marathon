@@ -10,6 +10,4 @@ Join me on a coding journey where I commit to honing my JavaScript skills every 
 
 Whether you're a beginner seeking to learn or an enthusiast eager to explore, this repository serves as a growing collection of my daily coding progress and experimentation.
 
-Together, let's dive into the world of JavaScript, building a foundation one commit at a time. 
-
-Feel free to explore, contribute, or follow along this coding marathon! 💻✨
+Together, let's dive into the world of JavaScript, building a foundation one commit at a time.💻✨ 
